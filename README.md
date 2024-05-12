@@ -1,4 +1,4 @@
-<h1><Array/h1>
+<h1>Array</h1>
 
 | No. | Questions                | Solution        | Status |
 | --- | ------------------------ | --------------- | ------ |
