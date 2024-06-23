@@ -38,6 +38,6 @@ class Solution:
 
 <h2>Similar Questions</h2>
 
-1. <a href="https://leetcode.com/problems/pascals-triangle-ii/submissions/1076612080/">289. Game of Life</a>
+1. <a href="https://leetcode.com/problems/pascals-triangle-ii/submissions/1076612080/">119. Pascal's Triangle II</a>
 
 <h2><a href="https://github.com/sanjay9616/Striver-180/blob/master/README.md"> 🔙 Back</a></h2>
