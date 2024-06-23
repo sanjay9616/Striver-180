@@ -53,6 +53,7 @@ class Solution:
                     matrix[i][j] = 0
         return matrix
 ```
+**[⬆ Back to Top](#table-of-contents)**
 
 ### <h2>Optimized</h2>
 
@@ -84,6 +85,7 @@ class Solution:
                 matrix[i][0] = 0
         return matrix
 ```
+**[⬆ Back to Top](#table-of-contents)**
 
 <h2>Similar Questions</h2>
 
