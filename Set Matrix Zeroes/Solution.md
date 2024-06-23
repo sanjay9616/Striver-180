@@ -85,4 +85,9 @@ class Solution:
         return matrix
 ```
 
+<h2>Similar Questions</h2>
+
+1. <a href="https://leetcode.com/problems/game-of-life/description/">289. Game of Life</a>
+2. <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/">2125. Number of Laser Beams in a Bank</a>
+
 <h2><a href="https://github.com/sanjay9616/Striver-180/blob/master/README.md"> 🔙 Back</a></h2>
