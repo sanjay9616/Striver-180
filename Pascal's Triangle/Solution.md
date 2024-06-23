@@ -36,4 +36,8 @@ class Solution:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+<h2>Similar Questions</h2>
+
+1. <a href="https://leetcode.com/problems/pascals-triangle-ii/submissions/1076612080/">289. Game of Life</a>
+
 <h2><a href="https://github.com/sanjay9616/Striver-180/blob/master/README.md"> 🔙 Back</a></h2>
