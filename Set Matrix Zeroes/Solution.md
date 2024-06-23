@@ -4,7 +4,7 @@
 | ----- | --------------------------------------------- | --------------- | ---------------- | -------- |
 | 1     | [Brute Force](#Brute-Force)                   | O(M∗N∗(M+N))    | O(1)             | Accepted |
 | 2     | [Brute Force Opimized](#Brute-Force-Opimized) | O(M∗N)          | O(M+N)           | Accepted |
-| 3     | [Opimized](#Opimized)                         | O(M∗N)          | O(1)             | Accepted |
+| 3     | [Optimized](#Optimized)                         | O(M∗N)          | O(1)             | Accepted |
 
 ### <h2>Brute Force</h2>
 
