@@ -34,7 +34,7 @@ class Solution:
 
 <h2>Similar Questions</h2>
 
-1. <a href="https://leetcode.com/problems/permutations/description/">46. Permutations</a> --> <a href="https://github.com/sanjay9616/Striver-180/blob/master/Permutations/Solution.md">Solution</a>
+1. <a href="https://leetcode.com/problems/permutations/description/">46. Permutations</a>
 2. <a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II</a>
 3. <a href="https://leetcode.com/problems/permutation-sequence/description/">60. Permutation Sequence</a>
 4. <a href="https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/description/">1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number</a>
