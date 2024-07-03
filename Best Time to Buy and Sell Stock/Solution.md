@@ -55,6 +55,18 @@ class Solution:
 
 ### <h2>Recursion and Memoization</h2>
 
+```py
+# Write your solution here
+```
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### <h2>Dynamic Programming</h2>
+
+```py
+# Write your solution here
+```
+
 **[⬆ Back to Top](#table-of-contents)**
 
 
