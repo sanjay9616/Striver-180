@@ -13,4 +13,8 @@ def demo():
 
 **[⬆ Back to Top](#table-of-contents)**
 
+<h2>Similar Questions</h2>
+
+1. <a href="https://leetcode.com/problems/first-missing-positive/description/">41. First Missing Positive</a>
+
 <h2><a href="https://github.com/sanjay9616/Striver-180/blob/master/README.md"> 🔙 Back</a></h2>
