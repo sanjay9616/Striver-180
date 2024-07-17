@@ -3,8 +3,8 @@
 | S No. | Approach                                                                                                               | Time Complexity | Space Complexity | Result   |
 | ----- | ---------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------- | -------- |
 | 1     | [Brute Force Approach using Linear Search](#Brute-Force-Approach-using-Linear-Search)                                  | O(M*N)          | O(1)             | Accepted |
-| 1     | [Using Binary Search](#Using-Binary-Search)                                                                            | O(M)*log(N)     | O(1)             | Accepted |
-| 1     | [Flatten 2d matrix into 1d array then apply Binary Search](#UFlatten-2d-matrix-into-1d-array-then-apply-Binary-Search) | O(M)+log(N)     | O(1)             | Accepted |
+| 2     | [Using Binary Search](#Using-Binary-Search)                                                                            | O(M)*log(N)     | O(1)             | Accepted |
+| 3     | [Flatten 2d matrix into 1d array then apply Binary Search](#UFlatten-2d-matrix-into-1d-array-then-apply-Binary-Search) | O(M)+log(N)     | O(1)             | Accepted |
 
 ### <h2>Brute Force Approach using Linear Search</h2>
 
